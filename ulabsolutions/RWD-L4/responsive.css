@@ -1,0 +1,118 @@
+/*
+These are the responsive styles. Throw some breakpoints in here!
+*/
+.content {
+  display: flex;
+  flex-flow: row wrap;
+}
+.header {
+  width: 100%;
+  display: flex;
+  flex-wrap:nowrap;
+}
+
+.header__menu {
+  padding-top: 0.7em;
+  padding-right: 0.7em;
+  font-size: 2em;
+  float: right;
+}
+
+.hero, .top-news, .scores, .weather, .recent-news {
+  order: 10;
+}
+
+.scores {
+  width: 100%;
+}
+
+@media screen and (max-width: 444px) {
+  .header__logo {
+    height: 48px;
+    margin-right: 0.5em;
+  }
+  .header__title {
+    margin-left: 0;
+    font-size: 1.6em;
+    vertical-align: bottom; 
+  }
+
+  .header__menu {
+    padding-top: 0.7em;
+    padding-right: 0.7em;
+    font-size: 2em;
+    float: right;
+  }
+
+}
+
+@media screen and (max-width: 499px) {
+
+  .nav {
+    z-index: 10;
+    background-color: #fff;
+    width: 200px;
+    position: absolute;
+    /* This trasform moves the drawer off canvas. */
+    -webkit-transform: translate(-200px, 0);
+    transform: translate(-200px, 0);
+    /* Optionally, we animate the drawer. */
+    transition: transform 0.3s ease;
+  }
+  .nav.open {
+    -webkit-transform: translate(0, 0);
+    transform: translate(0, 0);
+  }
+  .nav__item {
+    display: list-item;
+    border-bottom: 1px solid #E0E0E0;
+    width: 100%;
+    text-align: left;
+  }
+
+}
+
+@media screen and (min-width: 500px) {
+  .header__menu {
+    display: none;
+  }
+  
+  .hero {
+    width: 60%;
+    order: 0;
+  }
+
+  .top-news {
+    width: 100%;
+  }
+
+  .weather {
+    order: 1;
+    width: 40%;
+  }
+
+}
+
+@media screen and (min-width: 640px) {
+  .top-news {
+    order: 1;
+    width: 40%;
+  }  
+  .scores {
+    order: 2;
+    width: 50%;
+  }
+  .weather {
+    order: 3;
+    width: 40%;
+  }
+}
+
+@media screen and (min-width: 800px) {
+  body {
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+

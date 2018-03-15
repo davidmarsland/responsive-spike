@@ -34,6 +34,11 @@ CSS/CSS3 selectors, box model & positioning, rudimentary
 Sass experience. 
 
 ---
+### Objectives: 
+* Understand content-­­focused mobile-­­first web 
+development 
+* Utilize media queries for layout transformation 
+* Create responsive web layout 
 ### Topics:
 * General Mobile & Responsive Design Principles 
 * Media Queries & Viewports 
@@ -41,6 +46,11 @@ Sass experience.
 * Icon & Web Fonts 
 * Transitions and Animations 
 * Foundation UI CSS Overview
+
+---
+### Macy's Responsive Example
+
+<a target="_ref" href="https://m.macys.com/shop/coupons-deals">Mobile Macy's Coupons</a>
 
 ---
 ### Setup
@@ -58,6 +68,24 @@ Sass experience.
 ---
 ### Course Materials and Labs
 <a target="_ref" href="https://developers.google.com/web/fundamentals/design-and-ux/responsive/">Responsive Web Design from Google</a>
+
 ---
 ### References
 <a target="_ref" href="http://axisportlab.com/blog/2015/10/best-responsive-web-design-tutorials/">Best Responsive Design Web Tutorials</a>
+
+<a target="_ref" href="https://www.w3schools.com/css/css_rwd_intro.asp">Responsive Web Design Introduction - W3Schools</a>
+
+<a target="_ref" href="https://developer.mozilla.org/en-US/docs/Web/Tutorials">MDN Tutorials</a>
+
+<a target="_ref" href="https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity">MDN Specificity</a>
+
+---
+### Foundation UI CSS Overview
+
+<a target="_ref" href="https://www.tutorialspoint.com/foundation/index.htm">Foundation 6 Tutorial from tutorialspoint</a>
+
+<a target="_ref" href="https://foundation.zurb.com/learn/tutorials.html">Foundation 6 Video Tutorials</a>
+
+<a target="_ref" href="http://www.vandelaydesign.com/ultimate-guide-to-foundation-6/">Ultimate Guide to Foundation 6</a>
+
+<a target="_ref" href="https://foundation.zurb.com/sites/docs/kitchen-sink.html">Foundation Kitchen Sink Demo</a>
