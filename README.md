@@ -82,10 +82,8 @@ development
 ---
 ### Foundation UI CSS Overview
 
-<a target="_ref" href="https://www.tutorialspoint.com/foundation/index.htm">Foundation 6 Tutorial from tutorialspoint</a>
+<a target="_ref" href="https://foundation.zurb.com/sites/docs/v/5.5.3/">Getting Started With Foundation 5</a>
 
-<a target="_ref" href="https://foundation.zurb.com/learn/tutorials.html">Foundation 6 Video Tutorials</a>
+<a target="_ref" href="https://foundation.zurb.com/sites/docs/v/5.5.3/css.html">Getting Started With Foundation 5 CSS</a>
 
-<a target="_ref" href="http://www.vandelaydesign.com/ultimate-guide-to-foundation-6/">Ultimate Guide to Foundation 6</a>
-
-<a target="_ref" href="https://foundation.zurb.com/sites/docs/kitchen-sink.html">Foundation Kitchen Sink Demo</a>
+<a target="_ref" href="https://foundation.zurb.com/sites/docs/kitchen-sink.html">Foundation 5 Kitchen Sink Demo</a>
