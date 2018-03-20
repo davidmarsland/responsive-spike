@@ -108,6 +108,12 @@ npm install -g live-server
 * <a target="_udacity" href="https://classroom.udacity.com/courses/ud893/lessons/3561069759/concepts/35219393390923#">Lab: Building the Home Town App, part 2</a>
 * <a target="_ref" href="https://davidmarsland.github.io/responsive-spike/ulabs/rwd-l4-start/">Home Town App part 2 start</a>
 * <a target="_ref" href="https://davidmarsland.github.io/responsive-spike/ulabsolutions/RWD-L4/">Home Town App part 2 solution</a>
+
+---
+### Responsive images and Multi-device content
+
+* <a target="_ref" href="https://developers.google.com/web/fundamentals/design-and-ux/responsive/images">Responsive images</a>
+* <a target="_ref" href="https://developers.google.com/web/fundamentals/design-and-ux/responsive/content">Multi-device content</a>
 * <a target="_ref" href="https://davidmarsland.github.io/responsive-spike/ulabsolutions/RWDF-L5/">Home Town App part 3 solution</a>
 
 ---
