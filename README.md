@@ -154,6 +154,7 @@ live-server
 </a>
 <br>
 <a target="_git_react" href="https://davidmarsland.github.io/react-spike/">https://davidmarsland.github.io/responsive-spike/</a>
+<a target="_git" href="https://github.com/davidmarsland/responsive-spike">https://github.com/davidmarsland/responsive-spike</a>
 ### Thanks, please fill out the course survey now.  Your comments are greatly appreciated.
 
 <a target="_ref" href="https://www.surveymonkey.com/r/9TM26SL">Macy's Technology Responsive Design Course Survey</a>
