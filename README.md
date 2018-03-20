@@ -39,6 +39,7 @@ Sass experience.
 development 
 * Utilize media queries for layout transformation 
 * Create responsive web layout 
+
 ### Topics:
 * General Mobile & Responsive Design Principles 
 * Media Queries & Viewports 
