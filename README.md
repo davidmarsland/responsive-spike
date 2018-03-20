@@ -1,5 +1,3 @@
-# responsive-spike
-
 ### Welcome to Responsive Design Fundamentals Learning Spike
 #### Instructor: David Marsland
 <br>
