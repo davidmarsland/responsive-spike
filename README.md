@@ -93,7 +93,7 @@ npm install -g live-server
 * In a Powershell, Cmd Prompt, or Terminal
 ```
 cd responsive\ulabs
-liveserver 
+live-server 
 ---
 ### Course Materials and Labs
 <a target="_responsive_google" href="https://developers.google.com/web/fundamentals/design-and-ux/responsive/">Responsive Web Design from Google</a>
