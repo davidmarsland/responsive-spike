@@ -79,22 +79,43 @@ Should be >= 8.0
 npm -v
 ``` 
 Should be greater than 5.0.
+* <a target="_ref" href="https://www.npmjs.com/package/live-server">Hot-reloading live-server</a>
+```
+npm install -g live-server
+```
 
 ---
 ### Course Materials and Labs
 <a target="_responsive_google" href="https://developers.google.com/web/fundamentals/design-and-ux/responsive/">Responsive Web Design from Google</a>
 * Sign up for this <a target="_udacity" href="https://www.udacity.com/course/responsive-web-design-fundamentals--ud893">Free Udacity Responsive Design Course</a> 
 <br>*(please mute audio and watch videos at another time for review)*
-* Viewport meta tag
+* <a target="_responsive_google" href="https://developers.google.com/web/fundamentals/design-and-ux/responsive/#set-the-viewport">Set the Viewport</a>
 * <a target="_udacity" href="https://classroom.udacity.com/courses/ud893/lessons/3494350031/concepts/35260393050923">9. Quiz Setting Viewport from Udacity Course</a>
+* <a target="_responsive_google" href="https://developers.google.com/web/fundamentals/design-and-ux/responsive/#size_content_to_the_viewport">Size content to the viewport</a>
+
+---
+### Lab: Size content to the viewport
+
+* <a target="_udacity" href="https://classroom.udacity.com/courses/ud893/lessons/3494350031/concepts/35019794250923">Lab: Building the Home Town App, part 1</a>
+* <a target="_ref" href="https://davidmarsland.github.io/responsive-spike/ulabs/rwd-l2-start/">Home Town App part 1 start</a>
+* <a target="_ref" href="https://davidmarsland.github.io/responsive-spike/ulabs/rwd-l4-start/">Home Town App part 1 solution</a>
+
+---
+### CSS Media Queries and Responsive Patterns
+* <a target="_responsive_google" href="https://developers.google.com/web/fundamentals/design-and-ux/responsive/#css-media-queries">Use CSS media queries for responsiveness</a>
+* <a target="_responsive_google" href="https://developers.google.com/web/fundamentals/design-and-ux/responsive/patterns">Responsive Patterns</a>
+* <a target="_udacity" href="https://classroom.udacity.com/courses/ud893/lessons/3561069759/concepts/35219393390923#">Lab: Building the Home Town App, part 2</a>
+* <a target="_ref" href="https://davidmarsland.github.io/responsive-spike/ulabs/rwd-l4-start/">Home Town App part 2 start</a>
+* <a target="_ref" href="https://davidmarsland.github.io/responsive-spike/ulabsolutions/RWD-L4/">Home Town App part 2 solution</a>
+* <a target="_ref" href="https://davidmarsland.github.io/responsive-spike/ulabsolutions/RWDF-L5/">Home Town App part 3 solution</a>
 ---
 ### Foundation 5 UI CSS Overview
 
-<a target="_ref" href="https://foundation.zurb.com/sites/docs/v/5.5.3/">Getting Started With Foundation 5</a>
+* <a target="_ref" href="https://foundation.zurb.com/sites/docs/v/5.5.3/">Getting Started With Foundation 5</a>
 
-<a target="_ref" href="https://foundation.zurb.com/sites/docs/v/5.5.3/css.html">Getting Started With Foundation 5 CSS</a>
+* <a target="_ref" href="https://foundation.zurb.com/sites/docs/v/5.5.3/css.html">Getting Started With Foundation 5 CSS</a>
 
-<a target="_ref" href="https://foundation.zurb.com/sites/docs/v/5.5.3/components/kitchen_sink.html">Foundation 5 Kitchen Sink Demo</a>
+* <a target="_ref" href="https://foundation.zurb.com/sites/docs/v/5.5.3/components/kitchen_sink.html">Foundation 5 Kitchen Sink Demo</a>
 
 ---
 ### References
