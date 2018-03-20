@@ -1,9 +1,9 @@
 ### Welcome to Responsive Design Fundamentals Learning Spike
 #### Instructor: David Marsland
 <br>
-<img src="http://www.developintelligence.com/sites/all/themes/diresponsive/images/Develop-Intelligence-logo-f.png">
+<img src="https://www.developintelligence.com/sites/all/themes/diresponsive/images/Develop-Intelligence-logo-f.png">
 <br>
-<a target="_di" href="http://developintelligence.com">DevelopIntelligence.com</a>
+<a target="_di" href="https://developintelligence.com">DevelopIntelligence.com</a>
 <br>
 <a target="_git_html_css" href="https://davidmarsland.github.io/responsive-spike">https://davidmarsland.github.io/responsive-spike</a>
 
@@ -12,7 +12,7 @@
 * <a target="_ref" href="https://www.linkedin.com/in/davidemarsland">https://www.linkedin.com/in/davidemarsland</a>
 * Web Development since the Dawn of the Web <br>
 <a target="_ref" href="https://web.archive.org/web/19970616152144fw_/http://reality.sgi.com:80/mars_corp/"><img src="https://web.archive.org/web/19971210071250im_/http://reality.sgi.com:80/images/sgipowered.gif" /><br>Wayback Machine 1997 reality.sgi.com/mars_corp</a>
-* <a target="_ref" href="http://www.evolutionoftheweb.com/">http://www.evolutionoftheweb.com/</a>
+* <a target="_ref" href="https://www.evolutionoftheweb.com/">https://www.evolutionoftheweb.com/</a>
 
 ---
 ### Life after SGI
@@ -137,7 +137,7 @@ live-server
 
 ---
 ### References
-* <a target="_ref" href="http://axisportlab.com/blog/2015/10/best-responsive-web-design-tutorials/">Best Responsive Design Web Tutorials</a>
+* <a target="_ref" href="https://axisportlab.com/blog/2015/10/best-responsive-web-design-tutorials/">Best Responsive Design Web Tutorials</a>
 
 * <a target="_ref" href="https://www.w3schools.com/css/css_rwd_intro.asp">Responsive Web Design Introduction - W3Schools</a>
 
@@ -148,7 +148,7 @@ live-server
 ---
 ### Congratulations, you are now all Responsive Web Developers!
 
-<a target="_di" href="http://developintelligence.com"><img src="http://www.developintelligence.com/sites/all/themes/diresponsive/images/Develop-Intelligence-logo-f.png">
+<a target="_di" href="https://developintelligence.com"><img src="https://www.developintelligence.com/sites/all/themes/diresponsive/images/Develop-Intelligence-logo-f.png">
 </a>
 <br>
 <a target="_git_react" href="https://davidmarsland.github.io/react-spike">https://davidmarsland.github.io/responsive-spike</a>
