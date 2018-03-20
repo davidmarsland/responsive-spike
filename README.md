@@ -7,7 +7,7 @@
 <br>
 <a target="_di" href="http://developintelligence.com">DevelopIntelligence.com</a>
 <br>
-<a target="_git_html_css" href="https://davidmarsland.github.io/responsive-spike/">https://davidmarsland.github.io/responsive-spike/</a>
+<a target="_git_html_css" href="https://davidmarsland.github.io/responsive-spike">https://davidmarsland.github.io/responsive-spike</a>
 
 ---
 ### Introducing your instructor, David Marsland
@@ -153,7 +153,7 @@ live-server
 <a target="_di" href="http://developintelligence.com"><img src="http://www.developintelligence.com/sites/all/themes/diresponsive/images/Develop-Intelligence-logo-f.png">
 </a>
 <br>
-<a target="_git_react" href="https://davidmarsland.github.io/react-spike/">https://davidmarsland.github.io/responsive-spike/</a>
+<a target="_git_react" href="https://davidmarsland.github.io/react-spike">https://davidmarsland.github.io/responsive-spike</a>
 <a target="_git" href="https://github.com/davidmarsland/responsive-spike">https://github.com/davidmarsland/responsive-spike</a>
 ### Thanks, please fill out the course survey now.  Your comments are greatly appreciated.
 
