@@ -105,6 +105,12 @@ live-server
 * <a target="_responsive_google" href="https://developers.google.com/web/fundamentals/design-and-ux/responsive/#size_content_to_the_viewport">Size content to the viewport</a>
 
 ---
+### Lab: Adding Custom Device to Dev Tools
+
+* Find out specs for Macy's Store iPods, create a custom device in google responsive dev tools similar to this lab:
+
+<a target="_udacity" href="https://classroom.udacity.com/courses/ud893/lessons/3523969367/concepts/35247994450923#">Device Emulation</a>
+---
 ### Lab: Size content to the viewport
 
 * <a target="_udacity" href="https://classroom.udacity.com/courses/ud893/lessons/3494350031/concepts/35019794250923">Lab: Building the Home Town App, part 1</a>
