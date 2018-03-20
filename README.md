@@ -88,12 +88,7 @@ npm install -g live-server
 
 * Create a folder named <code>responsive</code>
 * Inside that folder create a subfolder named <code>ulabs</code>
-* In a Powershell, Cmd Prompt, or Terminal
 
-```
-cd responsive\ulabs
-live-server 
-```
 
 ---
 ### Course Materials and Labs
@@ -116,7 +111,13 @@ live-server
 * <a target="_udacity" href="https://classroom.udacity.com/courses/ud893/lessons/3494350031/concepts/35019794250923">Lab: Building the Home Town App, part 1</a>
 * <a target="_ref" href="https://davidmarsland.github.io/responsive-spike/ulabs/rwd-l2-start/">Home Town App part 1 start</a>
 * <a target="_ref" href="https://davidmarsland.github.io/responsive-spike/ulabs/rwd-l4-start/">Home Town App part 1 solution</a>
+* After downloading and unzipping the files into <code>responsive/ulabs<code>, rename the <code>Start</code> folder responsivelab
+* In a Powershell, Cmd Prompt, or Terminal
 
+```
+cd responsive\ulabs
+live-server 
+```
 ---
 ### CSS Media Queries and Responsive Patterns
 * <a target="_responsive_google" href="https://developers.google.com/web/fundamentals/design-and-ux/responsive/#css-media-queries">Use CSS media queries for responsiveness</a>
