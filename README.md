@@ -154,6 +154,7 @@ live-server
 </a>
 <br>
 <a target="_git_react" href="https://davidmarsland.github.io/react-spike">https://davidmarsland.github.io/responsive-spike</a>
+<br>
 <a target="_git" href="https://github.com/davidmarsland/responsive-spike">https://github.com/davidmarsland/responsive-spike</a>
 ### Thanks, please fill out the course survey now.  Your comments are greatly appreciated.
 
