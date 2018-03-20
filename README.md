@@ -12,7 +12,7 @@
 * <a target="_ref" href="https://www.linkedin.com/in/davidemarsland">https://www.linkedin.com/in/davidemarsland</a>
 * Web Development since the Dawn of the Web <br>
 <a target="_ref" href="https://web.archive.org/web/19970616152144fw_/http://reality.sgi.com:80/mars_corp/"><img src="https://web.archive.org/web/19971210071250im_/http://reality.sgi.com:80/images/sgipowered.gif" /><br>Wayback Machine 1997 reality.sgi.com/mars_corp</a>
-* <a target="_ref" href="https://www.evolutionoftheweb.com/">https://www.evolutionoftheweb.com/</a>
+* <a target="_ref" href="http://www.evolutionoftheweb.com/">http://www.evolutionoftheweb.com/</a>
 
 ---
 ### Life after SGI
