@@ -91,9 +91,11 @@ npm install -g live-server
 * Create a folder named <code>responsive</code>
 * Inside that folder create a subfolder named <code>ulabs</code>
 * In a Powershell, Cmd Prompt, or Terminal
+
 ```
 cd responsive\ulabs
 live-server 
+```
 ---
 ### Course Materials and Labs
 <a target="_responsive_google" href="https://developers.google.com/web/fundamentals/design-and-ux/responsive/">Responsive Web Design from Google</a>
