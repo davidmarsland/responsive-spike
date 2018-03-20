@@ -96,6 +96,7 @@ npm install -g live-server
 cd responsive\ulabs
 live-server 
 ```
+
 ---
 ### Course Materials and Labs
 <a target="_responsive_google" href="https://developers.google.com/web/fundamentals/design-and-ux/responsive/">Responsive Web Design from Google</a>
