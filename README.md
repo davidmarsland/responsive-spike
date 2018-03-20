@@ -86,6 +86,15 @@ npm install -g live-server
 ```
 
 ---
+### Course Labs Setup
+
+* Create a folder named <code>responsive</code>
+* Inside that folder create a subfolder named <code>ulabs</code>
+* In a Powershell, Cmd Prompt, or Terminal
+```
+cd responsive\ulabs
+liveserver 
+---
 ### Course Materials and Labs
 <a target="_responsive_google" href="https://developers.google.com/web/fundamentals/design-and-ux/responsive/">Responsive Web Design from Google</a>
 * Sign up for this <a target="_udacity" href="https://www.udacity.com/course/responsive-web-design-fundamentals--ud893">Free Udacity Responsive Design Course</a> 
@@ -117,7 +126,6 @@ npm install -g live-server
 * <a target="_ref" href="https://davidmarsland.github.io/responsive-spike/ulabsolutions/RWDF-L5/">Home Town App part 3 solution</a>
 
 ---
-
 ### Foundation 5 UI CSS Overview
 
 * <a target="_ref" href="https://foundation.zurb.com/sites/docs/v/5.5.3/">Getting Started With Foundation 5</a>
@@ -135,7 +143,6 @@ npm install -g live-server
 * <a target="_ref" href="https://developer.mozilla.org/en-US/docs/Web/Tutorials">MDN Tutorials</a>
 
 * <a target="_ref" href="https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity">MDN Specificity</a>
-
 
 ---
 ### Congratulations, you are now all Responsive Web Developers!
